@@ -24,5 +24,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikachitava&show_icons=true&locale=en&layout=compact" alt="nikachitava" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikachitava)](https://git.io/streak-stats)
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
