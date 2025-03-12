@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nika Tchitava</h1>
-<h3 align="center">A passionate frontend developer from Georgia</h3>
+<h1 align="right">Hi 👋, I'm Nika Tchitava</h1>
+<h3 align="right">A passionate frontend developer from Georgia</h3>
 
 - 🌱 I’m currently learning **React Native**
 
