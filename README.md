@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Georgia</h3>
 
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-sigma-dusky.vercel.app/](https://personal-portfolio-sigma-dusky.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://personal-portfolio-sigma-dusky.vercel.app/](https://portfolio-alpha-inky-15.vercel.app/))
 - 💬 Ask me about **ReactJS**
 - 📫 How to reach me **chitava18.official@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikachitava18/](https://www.linkedin.com/in/nikachitava18/)
