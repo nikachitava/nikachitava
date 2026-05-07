@@ -1,19 +1,81 @@
-<h1 align="left">Hi 👋, I'm Nika Tchitava</h1>
-<h3 align="left">A passionate frontend developer from Georgia</h3>
+<h1 align="left">Hey, I'm Nika Tchitava 👋</h1>
 
-- 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at ([https://personal-portfolio-sigma-dusky.vercel.app/](https://portfolio-alpha-inky-15.vercel.app/))
-- 💬 Ask me about **ReactJS**
-- 📫 How to reach me **chitava18.official@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/nikachitava18/](https://www.linkedin.com/in/nikachitava18/)
+<h3 align="left">Performance Engineer @ A1QA &nbsp;·&nbsp; Full-Stack Developer @ night</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikachitava18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikachitava18" height="30" width="40" /></a>
-<a href="https://instagram.com/nikachitava18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikachitava18" height="30" width="40" /></a>
+  Based in Tbilisi, Georgia 🇬🇪 &nbsp;·&nbsp; Computer Science @ European University
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikachitava&show_icons=true&locale=en&layout=compact" alt="nikachitava" /></p>
+---
+
+### 🧪 By day — Performance Engineer
+
+I break applications on purpose so real users don't have to.
+
+- Load & concurrency testing with **Apache JMeter**
+- **WebSocket / STOMP** protocol automation & scripting
+- **Groovy / BeanShell** scripting for dynamic test logic
+- Traffic capture & analysis with **Charles Proxy**
+- Auth flows, bot detection, and OAuth2 edge cases
+- Reading flame graphs and writing stakeholder-friendly reports
+
+---
+
+### 🌙 By night — Full-Stack Developer
+
+Building real products on the JS/TS stack.
+
+- **Frontend:** Next.js (App Router), React, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **DevOps:** DigitalOcean, Nginx, PM2, Let's Encrypt, CI/CD scripts
+- **Tools:** Cursor AI, Git, Resend, Telegram Bot API, Google Cloud APIs
+
+---
+
+### 🚀 Side Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**trent.ge**](https://trent.ge) | Peer-to-peer car rental marketplace for tourists in Georgia. 5 locales (ka, en, ru, tr, he). | Next.js · Express · MySQL |
+| [**frontnews.ge**](https://frontnews.ge) | Bilingual Georgian & global news website | Next.js · Node.js |
+| [**stv.ge**](https://stv.ge) | Regional news for Samegrelo-Zemo Svaneti | Next.js · Node.js |
+| [**eudent.ge**](https://eudent.ge) | Website for European University's dental clinic | Next.js |
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/>
+</p>
+
+---
+
+### 📫 Let's connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/nikachitava18" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" />
+  </a>
+  &nbsp;
+  <a href="mailto:chitava18.official@gmail.com">
+    chitava18.official@gmail.com
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikachitava&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+</p>
