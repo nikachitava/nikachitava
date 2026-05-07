@@ -2,6 +2,8 @@
 
 <h3 align="left">Performance Engineer @ A1QA &nbsp;·&nbsp; Full-Stack Developer @ night</h3>
 
+<p align="left"><i>"Performance engineer by day. Indie builder by night."</i></p>
+
 <p align="left">
   Based in Tbilisi, Georgia 🇬🇪 &nbsp;·&nbsp; Computer Science @ European University
 </p>
