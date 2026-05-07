@@ -8,31 +8,6 @@
 
 ---
 
-### 🧪 By day — Performance Engineer
-
-I break applications on purpose so real users don't have to.
-
-- Load & concurrency testing with **Apache JMeter**
-- **WebSocket / STOMP** protocol automation & scripting
-- **Groovy / BeanShell** scripting for dynamic test logic
-- Traffic capture & analysis with **Charles Proxy**
-- Auth flows, bot detection, and OAuth2 edge cases
-- Reading flame graphs and writing stakeholder-friendly reports
-
----
-
-### 🌙 By night — Full-Stack Developer
-
-Building real products on the JS/TS stack.
-
-- **Frontend:** Next.js (App Router), React, Tailwind CSS, TypeScript
-- **Backend:** Node.js, Express.js
-- **Databases:** MySQL, MongoDB
-- **DevOps:** DigitalOcean, Nginx, PM2, Let's Encrypt, CI/CD scripts
-- **Tools:** Cursor AI, Git, Resend, Telegram Bot API, Google Cloud APIs
-
----
-
 ### 🚀 Side Projects
 
 | Project | Description | Stack |
@@ -47,17 +22,17 @@ Building real products on the JS/TS stack.
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/>
 </p>
 
 ---
@@ -69,13 +44,5 @@ Building real products on the JS/TS stack.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" />
   </a>
   &nbsp;
-  <a href="mailto:chitava18.official@gmail.com">
-    chitava18.official@gmail.com
-  </a>
-</p>
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikachitava&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  <a href="mailto:chitava18.official@gmail.com">chitava18.official@gmail.com</a>
 </p>
