@@ -5,7 +5,7 @@
 <p align="left"><i>"Performance engineer by day. Indie builder by night."</i></p>
 
 <p align="left">
-  Based in Tbilisi, Georgia 🇬🇪 &nbsp;·&nbsp; Computer Science @ European University
+  Based in Tbilisi, Georgia 🇬🇪 &nbsp;·&nbsp; CS @ European University &nbsp;·&nbsp; IT @ Daugavpils University 🇱🇻
 </p>
 
 ---
@@ -23,19 +23,9 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-</p>
+| JS | TS | Next.js | React | Node.js | Java | MySQL | MongoDB | Tailwind | Linux | Git |
+|---|---|---|---|---|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/> |
 
 ---
 
